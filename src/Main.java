@@ -10,7 +10,7 @@ public class Main {
         System.out.println(bmw);
 
         Car Kia = new Car("Kia","Sportage 4-го поколения",2.4,"красный",2018,"Южной Корее");
-        System.out.println(Kia);
+        System.out.println(Kia); // машина
 
         Car Hyundai = new Car("Hyundai","Avante",1.6,"оранжевый",2016,"Южной Корее");
         System.out.println(Hyundai);
